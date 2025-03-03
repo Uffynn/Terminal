@@ -1,4 +1,4 @@
-# Titok
+# Terminal
 Encrypted End-To-End Chat 
 
 
