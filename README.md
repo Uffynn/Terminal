@@ -13,3 +13,4 @@ Encrypted End-To-End Chat
 +=======================+
 "
 ```
+The True Value of Communication Lies in Its Privacy
