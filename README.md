@@ -1,5 +1,5 @@
 # Terminal
-Encrypted End-To-End Chat 
+Encrypted End-To-End Terminal Chat 
 
 
 ```
